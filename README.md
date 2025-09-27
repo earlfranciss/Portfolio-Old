@@ -32,7 +32,7 @@ This project was one of my early steps into **web development** and learning how
 ---
 
 ## 📸 Screenshot
-<img width="1852" height="6360" alt="Personal-Website-09-27-2025_06_54_PM" src="https://github.com/user-attachments/assets/b6b63afc-3820-4e81-b3bd-1c51ecacd01d" />
+<img width="1852" height="7000" alt="Personal-Website-09-27-2025_06_54_PM" src="https://github.com/user-attachments/assets/b6b63afc-3820-4e81-b3bd-1c51ecacd01d" />
 
 
 ---
