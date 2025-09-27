@@ -1,7 +1,9 @@
 # 🌐 Personal Portfolio Website
 
-This is my **personal portfolio website** created during my **1st Year in College**.  
+This is my **personal portfolio website** created during my **1st Year in College**.
+
 It is built using **HTML and CSS** and highlights key details about myself, including my **background, education, skills, hobbies, and interests**.  
+
 This project was one of my early steps into **web development** and learning how to design structured, styled web pages.  
 
 ---
